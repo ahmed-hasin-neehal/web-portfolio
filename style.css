@@ -49,6 +49,9 @@ h2{
     background-repeat: no-repeat;
     background-position: left;
 }
+.experience-area h2{
+    text-align: center;
+}
 .experience-area h3{
     color: orange;
 }
